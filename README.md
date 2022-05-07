@@ -17,9 +17,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="/assets/homeUI.png" alt="My cool home page"/>
-# Home Page
-<img src="/assets/loginUI.png" alt="My cool Login page"/>
 # Login Page
-<img src="/assets/signupUI.png" alt="My cool SignUP page"/>
+<img src="/assets/loginUI.png" alt="My cool Login page"/>
 # Signup Page
+<img src="/assets/signupUI.png" alt="My cool SignUP page"/>
+# Home Page
+<img src="/assets/homeUI.png" alt="My cool home page"/>
